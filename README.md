@@ -20,3 +20,4 @@
 
 ##### [Assignment1](assignment1/assignment1.pdf) &nbsp;&nbsp;&nbsp; [SourceCode](assignment1/proj1.zip)
 
+Last updated on March 30 by [Jinbin Bai](noyii.github.io).
