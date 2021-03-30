@@ -20,9 +20,7 @@
 
 ##### [Assignment1](assignment1/assignment1.pdf) &nbsp;&nbsp;&nbsp; [SourceCode](assignment1/proj1.zip)
 
-
-&nbsp;
-&nbsp;
-&nbsp;
-
+  
+  
+  
 ##### Last updated on March 30 by [Jinbin Bai](https://noyii.github.io).
