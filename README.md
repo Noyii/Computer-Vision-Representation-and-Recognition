@@ -15,7 +15,7 @@
 ##### [chapter2_Images and Filtering](slides/chapter2_Images and Filtering.pdf)
 ##### [chapter3_Frequency Domain and Sampling](slides/chapter3_Frequency Domain and Sampling.pdf)
 ##### [chapter4_Template, Pyramid, and Filter Banks](slides/chapter4_Template, Pyramid, and Filter Banks.pdf)
-##### [chapter5_Edges](slides/chapter5_Edges.pdf)
+##### [chapter5_Edges](slides/chapter5_Edges.pdf) [chapter5_Edges-2](slides/chapter5_Edges-2.pdf)
 
 ### Homeworks
 
