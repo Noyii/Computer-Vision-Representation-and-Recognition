@@ -5,7 +5,8 @@
 
 ### News
 
-##### Assignment 1 will be due on April 10.
+##### Assignment 2 will be due on May 23.
+##### ~~Assignment 1 will be due on April 10.~~
 
 
 ### Slides
@@ -22,7 +23,7 @@
 
 ##### [Assignment1](assignment1/assignment1.pdf) &nbsp;&nbsp;&nbsp; [Source Code](assignment1/proj1.zip) &nbsp;&nbsp;&nbsp; [Reference Implementation](assignment1/proj1.zip)
 
-  
+##### [Assignment1](assignment2/assignment2.pdf) &nbsp;&nbsp;&nbsp; [Source Code](assignment2/proj2.zip) &nbsp;&nbsp;&nbsp; [Reference Implementation](assignment1/proj1.zip)  
   
   
 ##### Last updated on March 30 by [Jinbin Bai](https://noyii.github.io).
