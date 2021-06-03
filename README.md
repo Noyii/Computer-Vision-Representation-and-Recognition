@@ -5,7 +5,8 @@
 
 ### News
 
-##### Assignment 2 will be due on May 23.
+##### Assignment 3 will be due on June 21.
+##### ~~Assignment 2 will be due on May 23.~~
 ##### ~~Assignment 1 will be due on April 10.~~
 
 
@@ -19,12 +20,15 @@
 ##### [chapter5_Edges](slides/chapter5_Edges.pdf) &nbsp;&nbsp;&nbsp; [chapter5_Edges-2](slides/chapter5_Edges-2.pdf)
 ##### [chapter6_Segmentation and Grouping](slides/chapter6_Segmentation and Grouping.pdf)
 ##### [chapter7_Interest Points_Detector](slides/chapter7_Interest Points_Detector.pdf)
+##### [chapter8_Interest Points_Descriptor](slodes/chapter8_Interest Points_Descriptor.pdf)
 
 ### Homeworks
 
-##### [Assignment1](assignment1/assignment1.pdf) &nbsp;&nbsp;&nbsp; [Source Code](assignment1/proj1.zip) &nbsp;&nbsp;&nbsp; [Reference Implementation](assignment1/171860607.zip)
+##### Image Filtering & Hybrid Images [Assignment1](assignment1/assignment1.pdf) &nbsp;&nbsp;&nbsp; [Source Code](assignment1/proj1.zip) &nbsp;&nbsp;&nbsp; [Reference Implementation](assignment1/171860607.zip)
 
-##### [Assignment2](assignment2/assignment2.pdf) &nbsp;&nbsp;&nbsp; [Source Code](assignment2/proj2.zip) &nbsp;&nbsp;&nbsp; [Reference Implementation](assignment2/171860607.zip)  
+##### Edge Dection & Image Segemntation with k-means [Assignment2](assignment2/assignment2.pdf) &nbsp;&nbsp;&nbsp; [Source Code](assignment2/proj2.zip) &nbsp;&nbsp;&nbsp; [Reference Implementation](assignment2/171860607.zip)  
+
+##### Image Mosaics [Assignent3](assignment3/assignment3.pdf) &nbsp;&nbsp;&nbsp; [Source Code](assignment3/proj3.zip) &nbsp;&nbsp;&nbsp; [Reference Implementation](assignment3/171860607.zip)  
   
   
 ##### Last updated on March 30 by [Jinbin Bai](https://noyii.github.io). If you feel it is useful for you, please give me a star. :)
