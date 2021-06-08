@@ -20,7 +20,8 @@
 ##### [chapter5_Edges](slides/chapter5_Edges.pdf) &nbsp;&nbsp;&nbsp; [chapter5_Edges-2](slides/chapter5_Edges-2.pdf)
 ##### [chapter6_Segmentation and Grouping](slides/chapter6_Segmentation and Grouping.pdf)
 ##### [chapter7_Interest Points_Detector](slides/chapter7_Interest Points_Detector.pdf)
-##### [chapter8_Interest Points_Descriptor](slodes/chapter8_Interest Points_Descriptor.pdf)
+##### [chapter8_Interest Points_Descriptor](slides/chapter8_Interest Points_Descriptor.pdf)
+##### [chapter9_Alignment and Transformation](slides/chapter9_Alignment and Transformation.pdf)
 
 ### Homeworks
 
