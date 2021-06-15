@@ -22,6 +22,8 @@
 ##### [chapter7_Interest Points_Detector](slides/chapter7_Interest Points_Detector.pdf)
 ##### [chapter8_Interest Points_Descriptor](slides/chapter8_Interest Points_Descriptor.pdf)
 ##### [chapter9_Alignment and Transformation](slides/chapter9_Alignment and Transformation.pdf)
+##### **[chapter10_Recognition](slides/chapter10_Recognition.pdf)** (including deep learning part)
+##### [chapter11_Summary](slides/chapter11_Summary.pdf)
 
 ### Homeworks
 
